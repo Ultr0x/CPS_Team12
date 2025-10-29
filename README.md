@@ -1,2 +1,2 @@
 # CPS_Team12
-Narcissus
+Narcissus Lamp Arduino project
