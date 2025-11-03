@@ -6,3 +6,7 @@ https://www.tinkercad.com/things/kOoZYQ6Ke6U-terrific-hillar/editel?returnTo=htt
 
 Figma:
 https://www.figma.com/board/4A0WW3AGEANphQMLtWAi2P/CPS_Group-12?node-id=0-1&p=f&t=9a7BL35YROXo9WSq-0
+
+
+# Week 1
+we did ....
